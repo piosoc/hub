@@ -1,0 +1,13 @@
+#
+# Cartfile
+#
+# Copyright © 2016 Netguru Sp. z o.o. All rights reserved.
+#
+
+github "jspahrsummers/xcconfigs" ~> 0.10.0
+github "nakiostudio/EasyPeasy" ~> 1.4.0
+github "ReactiveX/RxSwift" ~> 3.0
+github "RxSwiftCommunity/RxOptional" ~> 3.0
+github "AliSoftware/OHHTTPStubs" "swift-3.0"
+github "SwiftyJSON/SwiftyJSON" ~> 3.1.4
+github "iwasrobbed/Down" ~> 0.3.0
